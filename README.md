@@ -209,9 +209,11 @@ I orginally had interpretation and final answer as 2 seperate LLM calls but my a
 
 Using just embeddings and cosine similarity can sometimes retrieve the wrong sections, or miss important sections. I would implement a hybrid approach using embeddings and keywords to thin down the policy and then use an LLM to pick the best chunks from that.
 
-5. Implement COnversation History
+5. Implement Conversation History
 
 This could prevent social engineering attacks and allow the agent to learn over time.
+
+Link to ChatGPT Conversation History: [https://chatgpt.com/g/g-p-69f66ad4d27881919cf63970d6a3139f-lume-technical-take-home/project]
 
 
 
