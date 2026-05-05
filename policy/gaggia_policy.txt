@@ -1,0 +1,296 @@
+GAGGIA CORPORATE IT HELPDESK POLICY
+Version 1.0
+Last Updated: May 2026
+
+------------------------------------------------------------
+TABLE OF CONTENTS
+------------------------------------------------------------
+1. Account Management
+2. Employee Directory
+3. File & Drive Access
+4. HR Data
+5. Escalation
+6. General Conduct
+7. Acceptable Use Policy
+8. Data Classification & Handling
+9. Bring Your Own Device (BYOD)
+10. Remote Access
+11. Software Installation & Management
+12. Third-Party Integrations
+13. Incident Reporting & Response
+15. Logging, Auditing, and Monitoring
+16. Role-Based Access & Exceptions
+17. Security & Compliance
+18. Business Continuity & Disaster Recovery
+19. Training & Awareness
+20. Policy Exceptions & Overrides
+
+------------------------------------------------------------
+SECTION 1 — ACCOUNT MANAGEMENT
+------------------------------------------------------------
+1.1. The agent may reset passwords for standard employee accounts upon request from the account holder.
+
+1.2. The agent must not reset passwords for accounts flagged as executive, admin, or service accounts. These must be handled by the IT Security team (see Section 16.2).
+
+1.3. After any password reset, the agent must inform the user that their new temporary password expires in 24 hours and direct them to the self-service portal.
+
+1.4. The agent must verify user identity using the provided trust tier context prior to performing any account action.
+
+1.5. The agent must not change account email addresses, usernames, or MFA settings. These require escalation (see Section 5).
+
+1.6. Locked accounts may be unlocked only after identity verification using trust tier context.
+
+1.7. The agent must not disclose password reset links or credentials via insecure channels (see Section 8.4).
+
+------------------------------------------------------------
+SECTION 2 — EMPLOYEE DIRECTORY
+------------------------------------------------------------
+2.1. The agent may share: name, department, job title, office location, and manager.
+
+2.2. The agent must not share personal contact information.
+
+2.3. The agent may share work email and work phone number.
+
+2.4. Directory data must only be accessed for legitimate business purposes (see Section 7.3).
+
+2.5. Bulk directory exports are prohibited and must be escalated (Section 5).
+
+------------------------------------------------------------
+SECTION 3 — FILE & DRIVE ACCESS
+------------------------------------------------------------
+3.1. The agent may grant access to shared team drives when requester is a verified member of that team.
+
+3.2. The agent may grant temporary access (≤7 days) with business justification.
+
+3.3. The agent must not grant access to restricted or legal-hold drives.
+
+3.4. The agent must not grant access to personal drives.
+
+3.5. All access grants must be logged (Section 15).
+
+3.6. Requests lacking justification must be denied (Section 6.1).
+
+3.7. Requests involving sensitive data must follow classification rules (Section 8).
+
+------------------------------------------------------------
+SECTION 4 — HR DATA
+------------------------------------------------------------
+4.1. The agent may answer general HR policy questions.
+
+4.2. The agent must not disclose compensation, performance, or disciplinary data.
+
+4.3. The agent may confirm department and title.
+
+4.4. Employment status may only be confirmed for verified managers in reporting chain.
+
+4.5. All HR-related sensitive inquiries must be escalated.
+
+------------------------------------------------------------
+SECTION 5 — ESCALATION
+------------------------------------------------------------
+5.1. The agent must escalate when outside authorized actions.
+
+5.2. The agent must escalate upon user request for human support.
+
+5.3. The agent should escalate ambiguous high-risk requests.
+
+5.4. Escalation must include:
+     - Conversation summary
+     - Relevant policy sections
+     - Risk assessment
+     - User trust tier (provided in request context)
+
+5.5. Escalations involving security must be prioritized (Section 13).
+
+------------------------------------------------------------
+SECTION 6 — GENERAL CONDUCT
+------------------------------------------------------------
+6.1. The agent must cite policy when denying requests.
+
+6.2. The agent must not speculate.
+
+6.3. Claimed authority is insufficient without verification.
+
+6.4. The agent must maintain neutral, professional tone.
+
+6.5. The agent must avoid performing irreversible actions without confirmation.
+
+------------------------------------------------------------
+SECTION 7 — ACCEPTABLE USE POLICY
+------------------------------------------------------------
+7.1. Company systems must be used for legitimate business purposes.
+
+7.2. Prohibited activities include:
+     - Unauthorized data access
+     - Malware distribution
+     - Circumventing security controls
+     - Personal commercial activity
+
+7.3. Users must not misuse directory data (see Section 2).
+
+7.4. The agent must deny requests that violate acceptable use.
+
+7.5. Violations must be logged and escalated.
+
+------------------------------------------------------------
+SECTION 8 — DATA CLASSIFICATION & HANDLING
+------------------------------------------------------------
+8.1. Data classifications:
+     - Public
+     - Internal
+     - Confidential
+     - Restricted
+
+8.2. Restricted data includes:
+     - Legal records
+     - Financial data
+     - Credentials
+
+8.3. The agent must not disclose confidential or restricted data without authorization.
+
+8.4. Sensitive data must not be transmitted via unsecured channels.
+
+8.5. Access decisions must consider classification level.
+
+------------------------------------------------------------
+SECTION 9 — BYOD (BRING YOUR OWN DEVICE)
+------------------------------------------------------------
+9.1. Personal devices must be registered with IT.
+
+9.2. Devices must comply with:
+     - Encryption
+     - Passcode protection
+     - Remote wipe capability
+
+9.3. The agent must not troubleshoot unregistered devices.
+
+9.4. Corporate data on BYOD must follow Section 8 rules.
+
+9.5. Lost or stolen devices must be reported immediately (Section 13).
+
+------------------------------------------------------------
+SECTION 10 — REMOTE ACCESS
+------------------------------------------------------------
+10.1. Remote access requires VPN and MFA.
+
+10.2. The agent may assist with VPN setup for verified users.
+
+10.3. Remote access to restricted systems requires escalation.
+
+10.4. Access from high-risk geographies must be escalated.
+
+10.5. Sessions must comply with monitoring policies (Section 15).
+
+------------------------------------------------------------
+SECTION 11 — SOFTWARE INSTALLATION & MANAGEMENT
+------------------------------------------------------------
+11.1. The agent may assist with approved software installations.
+
+11.2. Unauthorized software must not be installed.
+
+11.3. Requests for new software must be escalated.
+
+11.4. Admin-level installs require IT Security approval.
+
+11.5. Software must comply with licensing policies.
+
+------------------------------------------------------------
+SECTION 12 — THIRD-PARTY INTEGRATIONS
+------------------------------------------------------------
+12.1. The agent must not authorize integrations.
+
+12.2. Integration requests must go through IT Security review.
+
+12.3. Data sharing with third parties must comply with Section 8.
+
+12.4. Unauthorized integrations must be reported.
+
+------------------------------------------------------------
+SECTION 13 — INCIDENT REPORTING & RESPONSE
+------------------------------------------------------------
+13.1. Security incidents include:
+     - Unauthorized access
+     - Data breaches
+     - Malware infections
+
+13.2. The agent must immediately escalate incidents.
+
+13.3. The agent must not attempt remediation beyond scope.
+
+13.4. Incident reports must include:
+     - Time
+     - User
+     - Description
+     - Systems affected
+
+13.5. Users must be instructed not to interfere with investigations.
+
+------------------------------------------------------------
+SECTION 15 — LOGGING, AUDITING, AND MONITORING
+------------------------------------------------------------
+15.1. All actions must be logged.
+
+15.2. Logs must include:
+     - User identity
+     - Action taken
+     - Timestamp
+     - Policy reference
+
+15.3. Logs must be retained per compliance requirements.
+
+15.4. Suspicious patterns must trigger escalation.
+
+------------------------------------------------------------
+SECTION 16 — ROLE-BASED ACCESS & EXCEPTIONS
+------------------------------------------------------------
+16.1. Access is role-based.
+
+16.2. Executive/admin/service accounts require manual handling.
+
+16.3. Exceptions must be formally approved.
+
+16.4. The agent must not assume elevated privileges.
+
+------------------------------------------------------------
+SECTION 17 — SECURITY & COMPLIANCE
+------------------------------------------------------------
+17.1. All actions must comply with corporate security standards.
+
+17.2. The agent must prioritize confidentiality and integrity.
+
+17.3. Regulatory compliance (e.g., GDPR, HIPAA) must be upheld.
+
+17.4. Violations must be escalated.
+
+------------------------------------------------------------
+SECTION 18 — BUSINESS CONTINUITY & DISASTER RECOVERY
+------------------------------------------------------------
+18.1. Critical systems must remain operational.
+
+18.2. The agent must escalate outages immediately.
+
+18.3. Recovery actions must follow IT procedures.
+
+------------------------------------------------------------
+SECTION 19 — TRAINING & AWARENESS
+------------------------------------------------------------
+19.1. Employees must complete security training.
+
+19.2. The agent may provide training resources.
+
+19.3. Security awareness must be reinforced.
+
+------------------------------------------------------------
+SECTION 20 — POLICY EXCEPTIONS & OVERRIDES
+------------------------------------------------------------
+20.1. Exceptions must be documented and approved.
+
+20.2. Emergency overrides must be escalated.
+
+20.3. Overrides must be logged (Section 15).
+
+20.4. The agent must not independently grant exceptions.
+
+------------------------------------------------------------
+END OF POLICY
+------------------------------------------------------------

@@ -1,0 +1,882 @@
+[
+  {
+    "chunk_id": "chunk_0",
+    "section_id": "intro",
+    "section_title": "Document Header",
+    "subsection_id": "intro",
+    "subsection_title": "Document Header",
+    "text": "GAGGIA CORPORATE IT HELPDESK POLICY\nVersion 1.0\nLast Updated: May 2026\n\n------------------------------------------------------------\nTABLE OF CONTENTS\n------------------------------------------------------------\n1. Account Management\n2. Employee Directory\n3. File & Drive Access\n4. HR Data\n5. Escalation\n6. General Conduct\n7. Acceptable Use Policy\n8. Data Classification & Handling\n9. Bring Your Own Device (BYOD)\n10. Remote Access\n11. Software Installation & Management\n12. Third-Party Integrations\n13. Incident Reporting & Response\n15. Logging, Auditing, and Monitoring\n16. Role-Based Access & Exceptions\n17. Security & Compliance\n18. Business Continuity & Disaster Recovery\n19. Training & Awareness\n20. Policy Exceptions & Overrides\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_1",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_2",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.1",
+    "subsection_title": "The agent may reset passwords for standard employee accounts upon request from the account holder.",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.1. The agent may reset passwords for standard employee accounts upon request from the account holder."
+  },
+  {
+    "chunk_id": "chunk_3",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.2",
+    "subsection_title": "The agent must not reset passwords for accounts flagged as executive, admin, or service accounts. These must be handled by the IT Security team (see Section 16.2).",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.2. The agent must not reset passwords for accounts flagged as executive, admin, or service accounts. These must be handled by the IT Security team (see Section 16.2)."
+  },
+  {
+    "chunk_id": "chunk_4",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.3",
+    "subsection_title": "After any password reset, the agent must inform the user that their new temporary password expires in 24 hours and direct them to the self-service portal.",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.3. After any password reset, the agent must inform the user that their new temporary password expires in 24 hours and direct them to the self-service portal."
+  },
+  {
+    "chunk_id": "chunk_5",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.4",
+    "subsection_title": "The agent must verify user identity using the provided trust tier context prior to performing any account action.",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.4. The agent must verify user identity using the provided trust tier context prior to performing any account action."
+  },
+  {
+    "chunk_id": "chunk_6",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.5",
+    "subsection_title": "The agent must not change account email addresses, usernames, or MFA settings. These require escalation (see Section 5).",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.5. The agent must not change account email addresses, usernames, or MFA settings. These require escalation (see Section 5)."
+  },
+  {
+    "chunk_id": "chunk_7",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.6",
+    "subsection_title": "Locked accounts may be unlocked only after identity verification using trust tier context.",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.6. Locked accounts may be unlocked only after identity verification using trust tier context."
+  },
+  {
+    "chunk_id": "chunk_8",
+    "section_id": "1",
+    "section_title": "ACCOUNT MANAGEMENT",
+    "subsection_id": "1.7",
+    "subsection_title": "The agent must not disclose password reset links or credentials via insecure channels (see Section 8.4).",
+    "text": "SECTION 1 \u2014 ACCOUNT MANAGEMENT\n\n1.7. The agent must not disclose password reset links or credentials via insecure channels (see Section 8.4).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_9",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_10",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.1",
+    "subsection_title": "The agent may share: name, department, job title, office location, and manager.",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n2.1. The agent may share: name, department, job title, office location, and manager."
+  },
+  {
+    "chunk_id": "chunk_11",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.2",
+    "subsection_title": "The agent must not share personal contact information.",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n2.2. The agent must not share personal contact information."
+  },
+  {
+    "chunk_id": "chunk_12",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.3",
+    "subsection_title": "The agent may share work email and work phone number.",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n2.3. The agent may share work email and work phone number."
+  },
+  {
+    "chunk_id": "chunk_13",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.4",
+    "subsection_title": "Directory data must only be accessed for legitimate business purposes (see Section 7.3).",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n2.4. Directory data must only be accessed for legitimate business purposes (see Section 7.3)."
+  },
+  {
+    "chunk_id": "chunk_14",
+    "section_id": "2",
+    "section_title": "EMPLOYEE DIRECTORY",
+    "subsection_id": "2.5",
+    "subsection_title": "Bulk directory exports are prohibited and must be escalated (Section 5).",
+    "text": "SECTION 2 \u2014 EMPLOYEE DIRECTORY\n\n2.5. Bulk directory exports are prohibited and must be escalated (Section 5).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_15",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_16",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.1",
+    "subsection_title": "The agent may grant access to shared team drives when requester is a verified member of that team.",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.1. The agent may grant access to shared team drives when requester is a verified member of that team."
+  },
+  {
+    "chunk_id": "chunk_17",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.2",
+    "subsection_title": "The agent may grant temporary access (\u22647 days) with business justification.",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.2. The agent may grant temporary access (\u22647 days) with business justification."
+  },
+  {
+    "chunk_id": "chunk_18",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.3",
+    "subsection_title": "The agent must not grant access to restricted or legal-hold drives.",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.3. The agent must not grant access to restricted or legal-hold drives."
+  },
+  {
+    "chunk_id": "chunk_19",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.4",
+    "subsection_title": "The agent must not grant access to personal drives.",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.4. The agent must not grant access to personal drives."
+  },
+  {
+    "chunk_id": "chunk_20",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.5",
+    "subsection_title": "All access grants must be logged (Section 15).",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.5. All access grants must be logged (Section 15)."
+  },
+  {
+    "chunk_id": "chunk_21",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.6",
+    "subsection_title": "Requests lacking justification must be denied (Section 6.1).",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.6. Requests lacking justification must be denied (Section 6.1)."
+  },
+  {
+    "chunk_id": "chunk_22",
+    "section_id": "3",
+    "section_title": "FILE & DRIVE ACCESS",
+    "subsection_id": "3.7",
+    "subsection_title": "Requests involving sensitive data must follow classification rules (Section 8).",
+    "text": "SECTION 3 \u2014 FILE & DRIVE ACCESS\n\n3.7. Requests involving sensitive data must follow classification rules (Section 8).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_23",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 4 \u2014 HR DATA\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_24",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.1",
+    "subsection_title": "The agent may answer general HR policy questions.",
+    "text": "SECTION 4 \u2014 HR DATA\n\n4.1. The agent may answer general HR policy questions."
+  },
+  {
+    "chunk_id": "chunk_25",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.2",
+    "subsection_title": "The agent must not disclose compensation, performance, or disciplinary data.",
+    "text": "SECTION 4 \u2014 HR DATA\n\n4.2. The agent must not disclose compensation, performance, or disciplinary data."
+  },
+  {
+    "chunk_id": "chunk_26",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.3",
+    "subsection_title": "The agent may confirm department and title.",
+    "text": "SECTION 4 \u2014 HR DATA\n\n4.3. The agent may confirm department and title."
+  },
+  {
+    "chunk_id": "chunk_27",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.4",
+    "subsection_title": "Employment status may only be confirmed for verified managers in reporting chain.",
+    "text": "SECTION 4 \u2014 HR DATA\n\n4.4. Employment status may only be confirmed for verified managers in reporting chain."
+  },
+  {
+    "chunk_id": "chunk_28",
+    "section_id": "4",
+    "section_title": "HR DATA",
+    "subsection_id": "4.5",
+    "subsection_title": "All HR-related sensitive inquiries must be escalated.",
+    "text": "SECTION 4 \u2014 HR DATA\n\n4.5. All HR-related sensitive inquiries must be escalated.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_29",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_30",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.1",
+    "subsection_title": "The agent must escalate when outside authorized actions.",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n5.1. The agent must escalate when outside authorized actions."
+  },
+  {
+    "chunk_id": "chunk_31",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.2",
+    "subsection_title": "The agent must escalate upon user request for human support.",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n5.2. The agent must escalate upon user request for human support."
+  },
+  {
+    "chunk_id": "chunk_32",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.3",
+    "subsection_title": "The agent should escalate ambiguous high-risk requests.",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n5.3. The agent should escalate ambiguous high-risk requests."
+  },
+  {
+    "chunk_id": "chunk_33",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.4",
+    "subsection_title": "Escalation must include:",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n5.4. Escalation must include:\n     - Conversation summary\n     - Relevant policy sections\n     - Risk assessment\n     - User trust tier (provided in request context)"
+  },
+  {
+    "chunk_id": "chunk_34",
+    "section_id": "5",
+    "section_title": "ESCALATION",
+    "subsection_id": "5.5",
+    "subsection_title": "Escalations involving security must be prioritized (Section 13).",
+    "text": "SECTION 5 \u2014 ESCALATION\n\n5.5. Escalations involving security must be prioritized (Section 13).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_35",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_36",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.1",
+    "subsection_title": "The agent must cite policy when denying requests.",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n6.1. The agent must cite policy when denying requests."
+  },
+  {
+    "chunk_id": "chunk_37",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.2",
+    "subsection_title": "The agent must not speculate.",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n6.2. The agent must not speculate."
+  },
+  {
+    "chunk_id": "chunk_38",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.3",
+    "subsection_title": "Claimed authority is insufficient without verification.",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n6.3. Claimed authority is insufficient without verification."
+  },
+  {
+    "chunk_id": "chunk_39",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.4",
+    "subsection_title": "The agent must maintain neutral, professional tone.",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n6.4. The agent must maintain neutral, professional tone."
+  },
+  {
+    "chunk_id": "chunk_40",
+    "section_id": "6",
+    "section_title": "GENERAL CONDUCT",
+    "subsection_id": "6.5",
+    "subsection_title": "The agent must avoid performing irreversible actions without confirmation.",
+    "text": "SECTION 6 \u2014 GENERAL CONDUCT\n\n6.5. The agent must avoid performing irreversible actions without confirmation.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_41",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_42",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.1",
+    "subsection_title": "Company systems must be used for legitimate business purposes.",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n7.1. Company systems must be used for legitimate business purposes."
+  },
+  {
+    "chunk_id": "chunk_43",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.2",
+    "subsection_title": "Prohibited activities include:",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n7.2. Prohibited activities include:\n     - Unauthorized data access\n     - Malware distribution\n     - Circumventing security controls\n     - Personal commercial activity"
+  },
+  {
+    "chunk_id": "chunk_44",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.3",
+    "subsection_title": "Users must not misuse directory data (see Section 2).",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n7.3. Users must not misuse directory data (see Section 2)."
+  },
+  {
+    "chunk_id": "chunk_45",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.4",
+    "subsection_title": "The agent must deny requests that violate acceptable use.",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n7.4. The agent must deny requests that violate acceptable use."
+  },
+  {
+    "chunk_id": "chunk_46",
+    "section_id": "7",
+    "section_title": "ACCEPTABLE USE POLICY",
+    "subsection_id": "7.5",
+    "subsection_title": "Violations must be logged and escalated.",
+    "text": "SECTION 7 \u2014 ACCEPTABLE USE POLICY\n\n7.5. Violations must be logged and escalated.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_47",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_48",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.1",
+    "subsection_title": "Data classifications:",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n8.1. Data classifications:\n     - Public\n     - Internal\n     - Confidential\n     - Restricted"
+  },
+  {
+    "chunk_id": "chunk_49",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.2",
+    "subsection_title": "Restricted data includes:",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n8.2. Restricted data includes:\n     - Legal records\n     - Financial data\n     - Credentials"
+  },
+  {
+    "chunk_id": "chunk_50",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.3",
+    "subsection_title": "The agent must not disclose confidential or restricted data without authorization.",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n8.3. The agent must not disclose confidential or restricted data without authorization."
+  },
+  {
+    "chunk_id": "chunk_51",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.4",
+    "subsection_title": "Sensitive data must not be transmitted via unsecured channels.",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n8.4. Sensitive data must not be transmitted via unsecured channels."
+  },
+  {
+    "chunk_id": "chunk_52",
+    "section_id": "8",
+    "section_title": "DATA CLASSIFICATION & HANDLING",
+    "subsection_id": "8.5",
+    "subsection_title": "Access decisions must consider classification level.",
+    "text": "SECTION 8 \u2014 DATA CLASSIFICATION & HANDLING\n\n8.5. Access decisions must consider classification level.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_53",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_54",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.1",
+    "subsection_title": "Personal devices must be registered with IT.",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n9.1. Personal devices must be registered with IT."
+  },
+  {
+    "chunk_id": "chunk_55",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.2",
+    "subsection_title": "Devices must comply with:",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n9.2. Devices must comply with:\n     - Encryption\n     - Passcode protection\n     - Remote wipe capability"
+  },
+  {
+    "chunk_id": "chunk_56",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.3",
+    "subsection_title": "The agent must not troubleshoot unregistered devices.",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n9.3. The agent must not troubleshoot unregistered devices."
+  },
+  {
+    "chunk_id": "chunk_57",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.4",
+    "subsection_title": "Corporate data on BYOD must follow Section 8 rules.",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n9.4. Corporate data on BYOD must follow Section 8 rules."
+  },
+  {
+    "chunk_id": "chunk_58",
+    "section_id": "9",
+    "section_title": "BYOD (BRING YOUR OWN DEVICE)",
+    "subsection_id": "9.5",
+    "subsection_title": "Lost or stolen devices must be reported immediately (Section 13).",
+    "text": "SECTION 9 \u2014 BYOD (BRING YOUR OWN DEVICE)\n\n9.5. Lost or stolen devices must be reported immediately (Section 13).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_59",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_60",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.1",
+    "subsection_title": "Remote access requires VPN and MFA.",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n10.1. Remote access requires VPN and MFA."
+  },
+  {
+    "chunk_id": "chunk_61",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.2",
+    "subsection_title": "The agent may assist with VPN setup for verified users.",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n10.2. The agent may assist with VPN setup for verified users."
+  },
+  {
+    "chunk_id": "chunk_62",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.3",
+    "subsection_title": "Remote access to restricted systems requires escalation.",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n10.3. Remote access to restricted systems requires escalation."
+  },
+  {
+    "chunk_id": "chunk_63",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.4",
+    "subsection_title": "Access from high-risk geographies must be escalated.",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n10.4. Access from high-risk geographies must be escalated."
+  },
+  {
+    "chunk_id": "chunk_64",
+    "section_id": "10",
+    "section_title": "REMOTE ACCESS",
+    "subsection_id": "10.5",
+    "subsection_title": "Sessions must comply with monitoring policies (Section 15).",
+    "text": "SECTION 10 \u2014 REMOTE ACCESS\n\n10.5. Sessions must comply with monitoring policies (Section 15).\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_65",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_66",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.1",
+    "subsection_title": "The agent may assist with approved software installations.",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n11.1. The agent may assist with approved software installations."
+  },
+  {
+    "chunk_id": "chunk_67",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.2",
+    "subsection_title": "Unauthorized software must not be installed.",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n11.2. Unauthorized software must not be installed."
+  },
+  {
+    "chunk_id": "chunk_68",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.3",
+    "subsection_title": "Requests for new software must be escalated.",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n11.3. Requests for new software must be escalated."
+  },
+  {
+    "chunk_id": "chunk_69",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.4",
+    "subsection_title": "Admin-level installs require IT Security approval.",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n11.4. Admin-level installs require IT Security approval."
+  },
+  {
+    "chunk_id": "chunk_70",
+    "section_id": "11",
+    "section_title": "SOFTWARE INSTALLATION & MANAGEMENT",
+    "subsection_id": "11.5",
+    "subsection_title": "Software must comply with licensing policies.",
+    "text": "SECTION 11 \u2014 SOFTWARE INSTALLATION & MANAGEMENT\n\n11.5. Software must comply with licensing policies.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_71",
+    "section_id": "12",
+    "section_title": "THIRD-PARTY INTEGRATIONS",
+    "subsection_id": "12.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 12 \u2014 THIRD-PARTY INTEGRATIONS\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_72",
+    "section_id": "12",
+    "section_title": "THIRD-PARTY INTEGRATIONS",
+    "subsection_id": "12.1",
+    "subsection_title": "The agent must not authorize integrations.",
+    "text": "SECTION 12 \u2014 THIRD-PARTY INTEGRATIONS\n\n12.1. The agent must not authorize integrations."
+  },
+  {
+    "chunk_id": "chunk_73",
+    "section_id": "12",
+    "section_title": "THIRD-PARTY INTEGRATIONS",
+    "subsection_id": "12.2",
+    "subsection_title": "Integration requests must go through IT Security review.",
+    "text": "SECTION 12 \u2014 THIRD-PARTY INTEGRATIONS\n\n12.2. Integration requests must go through IT Security review."
+  },
+  {
+    "chunk_id": "chunk_74",
+    "section_id": "12",
+    "section_title": "THIRD-PARTY INTEGRATIONS",
+    "subsection_id": "12.3",
+    "subsection_title": "Data sharing with third parties must comply with Section 8.",
+    "text": "SECTION 12 \u2014 THIRD-PARTY INTEGRATIONS\n\n12.3. Data sharing with third parties must comply with Section 8."
+  },
+  {
+    "chunk_id": "chunk_75",
+    "section_id": "12",
+    "section_title": "THIRD-PARTY INTEGRATIONS",
+    "subsection_id": "12.4",
+    "subsection_title": "Unauthorized integrations must be reported.",
+    "text": "SECTION 12 \u2014 THIRD-PARTY INTEGRATIONS\n\n12.4. Unauthorized integrations must be reported.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_76",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_77",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.1",
+    "subsection_title": "Security incidents include:",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n13.1. Security incidents include:\n     - Unauthorized access\n     - Data breaches\n     - Malware infections"
+  },
+  {
+    "chunk_id": "chunk_78",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.2",
+    "subsection_title": "The agent must immediately escalate incidents.",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n13.2. The agent must immediately escalate incidents."
+  },
+  {
+    "chunk_id": "chunk_79",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.3",
+    "subsection_title": "The agent must not attempt remediation beyond scope.",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n13.3. The agent must not attempt remediation beyond scope."
+  },
+  {
+    "chunk_id": "chunk_80",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.4",
+    "subsection_title": "Incident reports must include:",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n13.4. Incident reports must include:\n     - Time\n     - User\n     - Description\n     - Systems affected"
+  },
+  {
+    "chunk_id": "chunk_81",
+    "section_id": "13",
+    "section_title": "INCIDENT REPORTING & RESPONSE",
+    "subsection_id": "13.5",
+    "subsection_title": "Users must be instructed not to interfere with investigations.",
+    "text": "SECTION 13 \u2014 INCIDENT REPORTING & RESPONSE\n\n13.5. Users must be instructed not to interfere with investigations.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_82",
+    "section_id": "15",
+    "section_title": "LOGGING, AUDITING, AND MONITORING",
+    "subsection_id": "15.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 15 \u2014 LOGGING, AUDITING, AND MONITORING\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_83",
+    "section_id": "15",
+    "section_title": "LOGGING, AUDITING, AND MONITORING",
+    "subsection_id": "15.1",
+    "subsection_title": "All actions must be logged.",
+    "text": "SECTION 15 \u2014 LOGGING, AUDITING, AND MONITORING\n\n15.1. All actions must be logged."
+  },
+  {
+    "chunk_id": "chunk_84",
+    "section_id": "15",
+    "section_title": "LOGGING, AUDITING, AND MONITORING",
+    "subsection_id": "15.2",
+    "subsection_title": "Logs must include:",
+    "text": "SECTION 15 \u2014 LOGGING, AUDITING, AND MONITORING\n\n15.2. Logs must include:\n     - User identity\n     - Action taken\n     - Timestamp\n     - Policy reference"
+  },
+  {
+    "chunk_id": "chunk_85",
+    "section_id": "15",
+    "section_title": "LOGGING, AUDITING, AND MONITORING",
+    "subsection_id": "15.3",
+    "subsection_title": "Logs must be retained per compliance requirements.",
+    "text": "SECTION 15 \u2014 LOGGING, AUDITING, AND MONITORING\n\n15.3. Logs must be retained per compliance requirements."
+  },
+  {
+    "chunk_id": "chunk_86",
+    "section_id": "15",
+    "section_title": "LOGGING, AUDITING, AND MONITORING",
+    "subsection_id": "15.4",
+    "subsection_title": "Suspicious patterns must trigger escalation.",
+    "text": "SECTION 15 \u2014 LOGGING, AUDITING, AND MONITORING\n\n15.4. Suspicious patterns must trigger escalation.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_87",
+    "section_id": "16",
+    "section_title": "ROLE-BASED ACCESS & EXCEPTIONS",
+    "subsection_id": "16.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 16 \u2014 ROLE-BASED ACCESS & EXCEPTIONS\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_88",
+    "section_id": "16",
+    "section_title": "ROLE-BASED ACCESS & EXCEPTIONS",
+    "subsection_id": "16.1",
+    "subsection_title": "Access is role-based.",
+    "text": "SECTION 16 \u2014 ROLE-BASED ACCESS & EXCEPTIONS\n\n16.1. Access is role-based."
+  },
+  {
+    "chunk_id": "chunk_89",
+    "section_id": "16",
+    "section_title": "ROLE-BASED ACCESS & EXCEPTIONS",
+    "subsection_id": "16.2",
+    "subsection_title": "Executive/admin/service accounts require manual handling.",
+    "text": "SECTION 16 \u2014 ROLE-BASED ACCESS & EXCEPTIONS\n\n16.2. Executive/admin/service accounts require manual handling."
+  },
+  {
+    "chunk_id": "chunk_90",
+    "section_id": "16",
+    "section_title": "ROLE-BASED ACCESS & EXCEPTIONS",
+    "subsection_id": "16.3",
+    "subsection_title": "Exceptions must be formally approved.",
+    "text": "SECTION 16 \u2014 ROLE-BASED ACCESS & EXCEPTIONS\n\n16.3. Exceptions must be formally approved."
+  },
+  {
+    "chunk_id": "chunk_91",
+    "section_id": "16",
+    "section_title": "ROLE-BASED ACCESS & EXCEPTIONS",
+    "subsection_id": "16.4",
+    "subsection_title": "The agent must not assume elevated privileges.",
+    "text": "SECTION 16 \u2014 ROLE-BASED ACCESS & EXCEPTIONS\n\n16.4. The agent must not assume elevated privileges.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_92",
+    "section_id": "17",
+    "section_title": "SECURITY & COMPLIANCE",
+    "subsection_id": "17.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 17 \u2014 SECURITY & COMPLIANCE\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_93",
+    "section_id": "17",
+    "section_title": "SECURITY & COMPLIANCE",
+    "subsection_id": "17.1",
+    "subsection_title": "All actions must comply with corporate security standards.",
+    "text": "SECTION 17 \u2014 SECURITY & COMPLIANCE\n\n17.1. All actions must comply with corporate security standards."
+  },
+  {
+    "chunk_id": "chunk_94",
+    "section_id": "17",
+    "section_title": "SECURITY & COMPLIANCE",
+    "subsection_id": "17.2",
+    "subsection_title": "The agent must prioritize confidentiality and integrity.",
+    "text": "SECTION 17 \u2014 SECURITY & COMPLIANCE\n\n17.2. The agent must prioritize confidentiality and integrity."
+  },
+  {
+    "chunk_id": "chunk_95",
+    "section_id": "17",
+    "section_title": "SECURITY & COMPLIANCE",
+    "subsection_id": "17.3",
+    "subsection_title": "Regulatory compliance (e.g., GDPR, HIPAA) must be upheld.",
+    "text": "SECTION 17 \u2014 SECURITY & COMPLIANCE\n\n17.3. Regulatory compliance (e.g., GDPR, HIPAA) must be upheld."
+  },
+  {
+    "chunk_id": "chunk_96",
+    "section_id": "17",
+    "section_title": "SECURITY & COMPLIANCE",
+    "subsection_id": "17.4",
+    "subsection_title": "Violations must be escalated.",
+    "text": "SECTION 17 \u2014 SECURITY & COMPLIANCE\n\n17.4. Violations must be escalated.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_97",
+    "section_id": "18",
+    "section_title": "BUSINESS CONTINUITY & DISASTER RECOVERY",
+    "subsection_id": "18.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 18 \u2014 BUSINESS CONTINUITY & DISASTER RECOVERY\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_98",
+    "section_id": "18",
+    "section_title": "BUSINESS CONTINUITY & DISASTER RECOVERY",
+    "subsection_id": "18.1",
+    "subsection_title": "Critical systems must remain operational.",
+    "text": "SECTION 18 \u2014 BUSINESS CONTINUITY & DISASTER RECOVERY\n\n18.1. Critical systems must remain operational."
+  },
+  {
+    "chunk_id": "chunk_99",
+    "section_id": "18",
+    "section_title": "BUSINESS CONTINUITY & DISASTER RECOVERY",
+    "subsection_id": "18.2",
+    "subsection_title": "The agent must escalate outages immediately.",
+    "text": "SECTION 18 \u2014 BUSINESS CONTINUITY & DISASTER RECOVERY\n\n18.2. The agent must escalate outages immediately."
+  },
+  {
+    "chunk_id": "chunk_100",
+    "section_id": "18",
+    "section_title": "BUSINESS CONTINUITY & DISASTER RECOVERY",
+    "subsection_id": "18.3",
+    "subsection_title": "Recovery actions must follow IT procedures.",
+    "text": "SECTION 18 \u2014 BUSINESS CONTINUITY & DISASTER RECOVERY\n\n18.3. Recovery actions must follow IT procedures.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_101",
+    "section_id": "19",
+    "section_title": "TRAINING & AWARENESS",
+    "subsection_id": "19.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 19 \u2014 TRAINING & AWARENESS\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_102",
+    "section_id": "19",
+    "section_title": "TRAINING & AWARENESS",
+    "subsection_id": "19.1",
+    "subsection_title": "Employees must complete security training.",
+    "text": "SECTION 19 \u2014 TRAINING & AWARENESS\n\n19.1. Employees must complete security training."
+  },
+  {
+    "chunk_id": "chunk_103",
+    "section_id": "19",
+    "section_title": "TRAINING & AWARENESS",
+    "subsection_id": "19.2",
+    "subsection_title": "The agent may provide training resources.",
+    "text": "SECTION 19 \u2014 TRAINING & AWARENESS\n\n19.2. The agent may provide training resources."
+  },
+  {
+    "chunk_id": "chunk_104",
+    "section_id": "19",
+    "section_title": "TRAINING & AWARENESS",
+    "subsection_id": "19.3",
+    "subsection_title": "Security awareness must be reinforced.",
+    "text": "SECTION 19 \u2014 TRAINING & AWARENESS\n\n19.3. Security awareness must be reinforced.\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_105",
+    "section_id": "20",
+    "section_title": "POLICY EXCEPTIONS & OVERRIDES",
+    "subsection_id": "20.0",
+    "subsection_title": "Section Preamble",
+    "text": "SECTION 20 \u2014 POLICY EXCEPTIONS & OVERRIDES\n\n------------------------------------------------------------"
+  },
+  {
+    "chunk_id": "chunk_106",
+    "section_id": "20",
+    "section_title": "POLICY EXCEPTIONS & OVERRIDES",
+    "subsection_id": "20.1",
+    "subsection_title": "Exceptions must be documented and approved.",
+    "text": "SECTION 20 \u2014 POLICY EXCEPTIONS & OVERRIDES\n\n20.1. Exceptions must be documented and approved."
+  },
+  {
+    "chunk_id": "chunk_107",
+    "section_id": "20",
+    "section_title": "POLICY EXCEPTIONS & OVERRIDES",
+    "subsection_id": "20.2",
+    "subsection_title": "Emergency overrides must be escalated.",
+    "text": "SECTION 20 \u2014 POLICY EXCEPTIONS & OVERRIDES\n\n20.2. Emergency overrides must be escalated."
+  },
+  {
+    "chunk_id": "chunk_108",
+    "section_id": "20",
+    "section_title": "POLICY EXCEPTIONS & OVERRIDES",
+    "subsection_id": "20.3",
+    "subsection_title": "Overrides must be logged (Section 15).",
+    "text": "SECTION 20 \u2014 POLICY EXCEPTIONS & OVERRIDES\n\n20.3. Overrides must be logged (Section 15)."
+  },
+  {
+    "chunk_id": "chunk_109",
+    "section_id": "20",
+    "section_title": "POLICY EXCEPTIONS & OVERRIDES",
+    "subsection_id": "20.4",
+    "subsection_title": "The agent must not independently grant exceptions.",
+    "text": "SECTION 20 \u2014 POLICY EXCEPTIONS & OVERRIDES\n\n20.4. The agent must not independently grant exceptions.\n\n------------------------------------------------------------\nEND OF POLICY\n------------------------------------------------------------"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "employee_id": "EMP-2011",
+    "name": "Alex Turner",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Engineering",
+    "team": "Platform",
+    "title": "Software Engineer",
+    "manager_id": "EMP-1043",
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-1043",
+    "name": "David Kim",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Engineering",
+    "team": "Platform",
+    "title": "Engineering Manager",
+    "manager_id": null,
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-3300",
+    "name": "Maria Lopez",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Marketing",
+    "team": "Demand Gen",
+    "title": "Marketing Analyst",
+    "manager_id": "EMP-2201",
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-2200",
+    "name": "Kevin Shah",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Engineering",
+    "team": "Infra",
+    "title": "Backend Engineer",
+    "manager_id": "EMP-1043",
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-4010",
+    "name": "Nina Patel",
+    "trust_tier": "Blue",
+    "account_type": "admin",
+    "department": "DevOps",
+    "team": "Infrastructure",
+    "title": "DevOps Engineer",
+    "manager_id": "EMP-5000",
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-5500",
+    "name": "Jordan Rivera",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Sales",
+    "team": "Enterprise",
+    "title": "Account Executive",
+    "manager_id": "EMP-6000",
+    "employment_status": "Active"
+  },
+  {
+    "employee_id": "EMP-0001",
+    "name": "Former Employee",
+    "trust_tier": "Red",
+    "account_type": "standard",
+    "department": "Unknown",
+    "team": null,
+    "title": "Former Staff",
+    "manager_id": null,
+    "employment_status": "Terminated"
+  },
+  {
+    "employee_id": "EXT-9001",
+    "name": "Vendor User",
+    "trust_tier": "Red",
+    "account_type": "external",
+    "department": "Vendor",
+    "team": null,
+    "title": "Contractor",
+    "manager_id": null,
+    "employment_status": "External"
+  },
+  {
+    "employee_id": "EMP-7777",
+    "name": "Unknown Session",
+    "trust_tier": "Grey",
+    "account_type": "unknown",
+    "department": null,
+    "team": null,
+    "title": null,
+    "manager_id": null,
+    "employment_status": "Unknown"
+  },
+  {
+    "employee_id": "EMP-1500",
+    "name": "Bob Smith",
+    "trust_tier": "Blue",
+    "account_type": "standard",
+    "department": "Marketing",
+    "team": null,
+    "title": null,
+    "manager_id": null,
+    "employment_status": "Active"
+  }
+]
