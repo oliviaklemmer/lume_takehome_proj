@@ -213,7 +213,7 @@ Using just embeddings and cosine similarity can sometimes retrieve the wrong sec
 
 This could prevent social engineering attacks and allow the agent to learn over time.
 
-Link to ChatGPT Conversation History: [https://chatgpt.com/g/g-p-69f66ad4d27881919cf63970d6a3139f-lume-technical-take-home/project]
+Link to ChatGPT Conversation History (I was using my friend's account): [https://chatgpt.com/g/g-p-69f66ad4d27881919cf63970d6a3139f-lume-technical-take-home/project]
 
 
 
