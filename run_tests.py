@@ -53,7 +53,7 @@ TESTS = [
 # -----------------------------
 # Run Tests
 # -----------------------------
-def run_tests(save_path="results.json"):
+def run_tests(save_path="results_2.json"):
     agent = PolicyAgent()
     results = []
 
